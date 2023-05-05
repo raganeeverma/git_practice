@@ -1,2 +1,3 @@
 # Technocolabs_Mini_Project
-Technocolabs Data Science Intern 
+<b>Technocolabs Data Science Intern </b><br>
+<b>Mini Project</b>
